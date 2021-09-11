@@ -1,0 +1,904 @@
+2021-09-11 01:20:07,855 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 01:20:07,871 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:20:08,636 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 01:20:08,642 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:20:08,712 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 01:20:08,712 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 01:20:08,720 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:20:08,750 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 01:20:08,845 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 01:20:08,850 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:20:08,851 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 01:20:08,884 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 01:20:08,890 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:20:08,892 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 01:20:08,943 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 01:20:08,975 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 01:20:09,000 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 01:20:09,016 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 01:20:09,027 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 01:20:09,043 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 01:20:09,055 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 01:20:09,076 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 01:20:09,145 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 01:20:11,036 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 01:20:12,033 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 01:20:12,119 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 01:20:12,222 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 01:20:13,133 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 01:20:13,137 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 01:20:13,138 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 01:20:13,138 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 01:20:13,252 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 01:20:14,150 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 01:20:14,151 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 01:20:14,151 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 01:20:14,217 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 01:20:14,234 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 01:20:14,256 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 01:20:14,260 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 01:20:14,260 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 01:20:14,261 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 01:20:14,297 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 01:20:16,753 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 01:20:21,845 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 01:20:26,771 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 01:20:31,243 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 01:20:31,249 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:20:31,281 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 01:21:30,159 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 01:21:30,175 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:21:30,201 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 01:21:30,285 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 01:21:30,317 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 01:21:30,358 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 01:21:30,387 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 01:21:30,595 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 01:21:30,601 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:21:30,638 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 01:21:30,681 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 01:21:30,692 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:21:30,693 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 01:21:30,793 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 01:21:30,857 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 01:21:30,897 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 01:21:30,928 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 01:21:30,944 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 01:21:30,951 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:21:30,967 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 01:21:30,983 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:21:31,021 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 01:21:31,026 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 01:21:34,420 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 01:21:35,472 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 01:21:35,554 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 01:21:35,687 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 01:21:36,538 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 01:21:36,542 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 01:21:36,543 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 01:21:36,543 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 01:21:36,768 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 01:21:37,792 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 01:21:37,792 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 01:21:37,792 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 01:21:39,112 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 01:21:39,113 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 01:21:39,113 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 01:21:39,177 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 01:21:39,193 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 01:21:39,218 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 01:21:39,242 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 01:21:42,988 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 01:21:43,619 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 01:21:53,016 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 01:21:53,049 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 01:21:53,058 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:21:53,093 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 01:22:48,206 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 01:22:48,226 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:22:48,255 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 01:22:48,356 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 01:22:48,392 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 01:22:48,401 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:22:48,425 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 01:22:48,478 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 01:22:48,513 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 01:22:48,555 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 01:22:48,563 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:22:48,569 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 01:22:48,593 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 01:22:48,601 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:22:48,602 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 01:22:48,609 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 01:22:48,616 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 01:22:48,618 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:22:48,675 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 01:22:48,722 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 01:22:48,750 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 01:22:48,788 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 01:22:48,940 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 01:22:52,066 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 01:22:53,323 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 01:22:53,448 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 01:22:53,771 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 01:22:56,018 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 01:22:56,027 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 01:22:56,028 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 01:22:56,029 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 01:22:56,180 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 01:22:57,199 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 01:22:57,201 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 01:22:57,202 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 01:23:01,309 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 01:23:01,311 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 01:23:01,311 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 01:23:01,483 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 01:23:01,515 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 01:23:01,582 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 01:23:01,626 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 01:23:03,513 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 01:23:05,492 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 01:23:14,219 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 01:23:14,229 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 01:23:14,286 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 01:23:15,522 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 11:49:01,264 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 11:49:01,307 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 11:49:01,409 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 11:49:02,497 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 11:49:02,516 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 11:49:02,524 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 11:49:02,698 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 11:49:02,771 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 11:49:02,829 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 11:49:02,887 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 11:49:03,014 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 11:49:03,025 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 11:49:03,076 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 11:49:03,341 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 11:49:03,344 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 11:49:03,351 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 11:49:03,356 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 11:49:03,363 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 11:49:03,365 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 11:49:03,453 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 11:49:03,498 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 11:49:03,560 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 11:49:03,616 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 11:49:03,712 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 11:49:04,595 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 11:49:04,810 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 11:49:09,463 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 11:49:09,463 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 11:49:09,464 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 11:49:09,609 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 11:49:09,640 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 11:49:09,687 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 11:49:09,719 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 11:49:09,808 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 11:49:11,969 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 11:49:11,974 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 11:49:11,975 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 11:49:11,975 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 11:49:12,125 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 11:49:13,150 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 11:49:13,150 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 11:49:13,151 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 11:49:15,969 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 11:49:17,758 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 11:49:26,020 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 11:49:30,068 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 11:49:30,077 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 11:49:30,137 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 12:34:38,060 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 12:34:38,104 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 12:34:38,240 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 12:34:38,251 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 12:34:38,274 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 12:34:38,595 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 12:34:38,602 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 12:34:38,606 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 12:34:38,620 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 12:34:38,630 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 12:34:38,632 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 12:34:38,769 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 12:34:38,775 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 12:34:38,780 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 12:34:38,787 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 12:34:38,827 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 12:34:38,843 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 12:34:38,843 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 12:34:38,892 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 12:34:38,892 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 12:34:38,948 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 12:34:38,956 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 12:34:39,117 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 12:34:42,966 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 12:34:43,155 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 12:34:43,286 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 12:34:43,316 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 12:34:45,428 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 12:34:45,433 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 12:34:45,433 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 12:34:45,434 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 12:34:45,717 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 12:34:46,334 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 12:34:46,336 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 12:34:46,338 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 12:34:46,602 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 12:34:46,704 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 12:34:46,743 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 12:34:46,744 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 12:34:46,745 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 12:34:46,762 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 12:34:46,823 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 12:34:50,911 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 12:34:51,213 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 12:35:00,983 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 12:35:05,431 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 12:35:05,439 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 12:35:05,488 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 13:06:30,313 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 13:06:30,338 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 13:06:30,350 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 13:06:30,350 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 13:06:30,402 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 13:06:30,472 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 13:06:30,626 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 13:06:30,736 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 13:06:30,746 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 13:06:30,751 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 13:06:30,836 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 13:06:30,906 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 13:06:30,913 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 13:06:30,933 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 13:06:30,936 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 13:06:31,010 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 13:06:31,024 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 13:06:31,038 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 13:06:31,081 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 13:06:31,098 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 13:06:31,161 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 13:06:31,300 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 13:06:31,350 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 13:06:35,412 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 13:06:35,778 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 13:06:35,799 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 13:06:36,106 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 13:06:37,990 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 13:06:37,996 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 13:06:37,997 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 13:06:37,998 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 13:06:38,327 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 13:06:39,351 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 13:06:39,352 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 13:06:39,353 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 13:06:42,339 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 13:06:42,340 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 13:06:42,341 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 13:06:42,498 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 13:06:42,560 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 13:06:42,704 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 13:06:42,733 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 13:06:45,812 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 13:06:53,471 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 13:07:00,619 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 13:07:00,627 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 13:07:00,676 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 13:07:03,536 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:17:10,868 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:17:10,911 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:17:10,973 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:17:11,147 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:17:11,250 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:17:11,336 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:17:11,440 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:17:23,018 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:17:23,038 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:17:23,043 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:17:23,227 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:17:23,382 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:17:23,505 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:17:23,592 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:17:23,743 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 15:17:26,711 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 15:17:28,838 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 15:17:28,843 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:17:28,844 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:17:28,844 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 15:17:29,070 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 15:17:30,116 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 15:17:30,118 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 15:17:30,119 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 15:17:42,633 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:17:42,641 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:17:42,693 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:17:45,349 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 15:17:45,738 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 15:17:45,918 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:17:48,015 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 15:17:48,016 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 15:17:48,017 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 15:17:48,110 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 15:17:48,127 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 15:17:48,159 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 15:17:48,180 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 15:17:52,273 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 15:18:02,326 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:18:14,774 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:18:14,782 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:18:14,837 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:18:35,361 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 15:18:59,269 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:18:59,288 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:18:59,400 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:19:24,455 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:19:24,470 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:22:01,402 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:22:01,458 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:22:01,524 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:22:01,707 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:22:01,857 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:22:01,963 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:22:02,063 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:22:14,130 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:22:14,155 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:22:14,160 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:22:14,352 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:22:14,441 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:22:14,555 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:22:14,625 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:22:14,765 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 15:22:17,664 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 15:22:19,854 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 15:22:19,863 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:22:19,864 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:22:19,864 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 15:22:20,171 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 15:22:21,198 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 15:22:21,199 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 15:22:21,200 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 15:22:33,601 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:22:33,625 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:22:33,719 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:22:36,638 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 15:22:36,774 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 15:22:36,931 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:22:39,557 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 15:22:39,559 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 15:22:39,560 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 15:22:39,783 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 15:22:39,830 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 15:22:39,913 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 15:22:39,972 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 15:22:44,251 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 15:22:54,340 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:22:58,265 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:26:57,371 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:26:57,393 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:26:57,430 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:26:57,580 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:26:57,695 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:26:57,876 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:26:57,957 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:27:09,391 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:27:09,413 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:27:09,421 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:27:09,616 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:27:09,707 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:27:09,821 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:27:09,882 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:27:10,050 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 15:27:13,563 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 15:27:15,710 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 15:27:15,716 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:27:15,717 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:27:15,718 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 15:27:16,028 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 15:27:17,040 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 15:27:17,040 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 15:27:17,041 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 15:27:29,514 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:27:29,537 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:27:29,635 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:27:36,583 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 15:27:36,752 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 15:27:36,886 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:27:39,822 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 15:27:39,825 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 15:27:39,827 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 15:27:39,988 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 15:27:40,047 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 15:27:40,136 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 15:27:40,183 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 15:27:46,268 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 15:27:56,316 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:28:15,353 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:28:15,366 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:28:15,431 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:28:36,268 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 15:28:56,651 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:28:56,667 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:28:56,731 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:29:23,175 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:29:23,185 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:31:55,066 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:31:55,108 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:31:55,156 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:31:55,312 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:31:55,436 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:31:55,549 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:31:55,658 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:32:08,640 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:32:08,654 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:32:08,659 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:32:08,832 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:32:08,958 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:32:09,043 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:32:09,089 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:32:09,177 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 15:32:11,964 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 15:32:14,199 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 15:32:14,203 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:32:14,204 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:32:14,205 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 15:32:14,457 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 15:32:15,495 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 15:32:15,496 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 15:32:15,497 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 15:32:27,206 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:32:27,224 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:32:27,329 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:32:30,696 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 15:32:30,974 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 15:32:31,221 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:32:33,276 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 15:32:33,277 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 15:32:33,278 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 15:32:33,419 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 15:32:33,448 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 15:32:33,495 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 15:32:33,527 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 15:32:36,211 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 15:32:46,320 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:32:58,655 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:32:58,673 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:32:58,763 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:33:15,095 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 15:33:18,189 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:33:18,195 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/
+ 2021-09-11 15:33:51,111 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:33:51,131 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:34:14,486 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:34:14,542 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:34:14,641 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:34:14,999 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:34:15,143 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:34:15,251 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:34:15,368 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:34:27,545 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:34:27,566 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:34:27,572 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:34:27,797 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:34:27,896 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:34:27,981 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:34:28,049 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:34:28,211 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 15:34:31,048 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 15:34:33,210 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 15:34:33,218 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:34:33,219 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:34:33,220 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 15:34:33,433 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 15:34:34,460 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 15:34:34,461 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 15:34:34,463 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 15:34:46,645 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:34:46,666 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:34:46,760 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:34:49,707 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 15:34:49,826 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 15:34:49,941 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:34:53,359 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 15:34:53,360 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 15:34:53,362 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 15:34:53,552 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 15:34:53,589 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 15:34:53,663 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 15:34:53,717 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 15:34:56,513 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 15:35:06,566 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:35:19,113 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:35:19,133 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:35:19,232 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:35:32,393 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 15:35:44,010 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:35:44,030 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:35:44,124 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:36:10,077 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:36:10,098 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:36:45,679 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:36:45,721 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:36:45,789 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:36:45,966 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:36:46,052 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:36:46,162 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:36:46,237 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:37:01,554 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:37:01,579 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:37:01,584 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:37:01,796 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:37:01,930 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:37:02,060 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:37:02,183 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:37:02,372 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 15:37:05,440 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 15:37:07,709 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 15:37:07,723 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:37:07,725 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:37:07,726 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 15:37:08,244 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 15:37:09,264 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 15:37:09,266 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 15:37:09,268 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 15:37:21,381 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:37:21,398 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:37:21,495 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:37:23,936 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 15:37:25,308 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 15:37:25,451 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:37:28,190 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 15:37:28,191 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 15:37:28,192 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 15:37:28,403 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 15:37:28,445 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 15:37:28,526 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 15:37:28,576 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 15:37:32,099 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 15:37:42,175 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:37:53,916 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:37:53,922 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:37:53,970 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:38:10,682 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 15:38:29,273 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:38:29,291 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:38:29,394 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:39:03,891 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:39:03,907 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:39:41,634 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:39:41,678 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:39:41,760 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:39:41,991 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:39:42,104 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:39:42,211 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:39:42,320 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:39:55,650 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:39:55,663 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:39:55,666 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:39:55,770 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:39:55,824 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:39:55,882 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:39:55,915 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:39:56,022 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 15:40:00,012 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 15:40:02,156 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 15:40:02,162 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:40:02,162 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:40:02,162 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 15:40:02,408 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 15:40:03,424 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 15:40:03,425 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 15:40:03,425 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 15:40:16,242 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:40:16,250 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:40:16,294 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:40:19,889 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 15:40:20,023 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 15:40:20,171 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:40:22,654 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 15:40:22,655 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 15:40:22,658 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 15:40:22,812 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 15:40:22,842 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 15:40:22,884 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 15:40:22,904 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 15:40:27,701 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 15:40:37,743 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:40:50,038 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:40:50,057 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:40:50,157 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:41:04,762 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 15:41:17,845 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:41:17,864 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:41:17,963 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:41:46,822 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:41:46,849 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:42:16,493 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  OPERA-92.0.4515.159
+ 2021-09-11 15:42:16,541 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:42:16,637 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:42:16,822 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:42:16,882 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:42:16,930 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:42:17,006 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:42:30,258 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  OPERA-92.0.4515.159
+ 2021-09-11 15:42:30,280 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:42:30,287 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:42:30,470 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:42:30,573 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:42:30,725 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:42:30,869 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:42:30,952 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 15:42:34,191 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 15:42:36,421 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 15:42:36,435 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:42:36,437 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:42:36,438 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 15:42:36,975 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 15:42:38,006 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 15:42:38,008 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 15:42:38,010 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 15:42:56,474 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  OPERA-92.0.4515.159
+ 2021-09-11 15:42:56,497 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:42:56,614 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:43:03,668 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 15:43:03,807 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 15:43:03,948 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:43:06,477 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 15:43:06,479 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 15:43:06,481 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 15:43:06,617 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 15:43:06,645 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 15:43:06,687 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 15:43:06,705 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 15:43:16,987 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 15:43:27,049 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:43:49,164 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  OPERA-92.0.4515.159
+ 2021-09-11 15:43:49,178 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:43:49,243 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:44:03,296 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 15:44:19,840 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  OPERA-92.0.4515.159
+ 2021-09-11 15:44:19,864 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:44:19,974 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:44:48,499 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  OPERA-92.0.4515.159
+ 2021-09-11 15:44:48,522 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:45:15,594 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:45:15,613 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:45:15,652 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:45:15,830 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:45:15,901 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:45:15,958 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:45:15,995 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:45:26,554 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:45:26,571 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:45:26,577 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:45:26,759 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:45:26,854 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:45:26,918 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:45:26,967 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:45:27,071 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 15:45:31,114 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 15:45:33,331 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 15:45:33,342 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:45:33,344 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:45:33,345 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 15:45:33,622 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 15:45:34,645 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 15:45:34,647 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 15:45:34,650 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 15:45:48,673 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:45:48,692 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:45:48,786 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:45:56,421 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 15:45:57,968 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 15:45:58,250 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:46:01,564 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 15:46:01,564 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 15:46:01,565 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 15:46:01,711 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 15:46:01,751 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 15:46:01,825 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 15:46:01,863 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 15:46:05,847 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 15:46:15,916 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:46:27,949 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:46:27,975 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:46:28,087 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:46:40,191 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 15:46:53,097 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:46:53,112 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:46:53,186 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:47:18,582 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:47:18,599 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:47:49,429 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:47:49,472 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:47:49,512 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:47:49,609 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:47:49,621 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:47:49,625 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:47:49,837 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:47:49,972 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:47:49,978 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:47:49,991 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:47:50,105 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:47:50,105 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:47:50,192 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:47:50,219 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:47:50,246 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:47:50,313 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:47:50,331 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:47:50,336 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:47:50,352 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:47:50,414 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:47:50,414 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:47:50,493 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:47:50,529 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 15:47:56,971 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 15:47:57,087 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 15:47:57,227 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:47:57,647 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 15:47:59,927 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 15:47:59,943 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:47:59,945 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:47:59,947 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 15:48:00,222 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 15:48:01,256 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 15:48:01,258 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 15:48:01,259 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 15:48:05,526 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 15:48:06,387 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 15:48:06,388 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 15:48:06,390 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 15:48:06,546 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 15:48:06,565 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 15:48:06,607 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 15:48:06,626 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 15:48:09,729 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 15:48:19,811 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:48:20,328 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:48:20,349 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:48:20,442 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:49:17,218 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:49:17,246 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:49:17,376 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:49:17,432 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:49:17,445 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:49:17,450 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:49:17,608 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:49:17,849 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:49:17,866 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:49:17,879 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:49:17,881 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:49:17,924 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:49:17,935 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:49:17,939 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:49:18,006 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:49:18,022 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:49:18,030 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:49:18,031 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:49:18,038 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:49:18,100 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 15:49:18,117 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:49:18,289 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:49:18,367 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:49:21,212 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 15:49:21,389 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 15:49:21,598 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:49:21,835 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 15:49:24,089 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 15:49:24,102 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:49:24,104 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:49:24,106 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 15:49:24,528 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 15:49:25,552 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 15:49:25,553 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 15:49:25,555 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 15:49:25,817 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 15:49:25,818 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 15:49:25,819 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 15:49:25,934 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 15:49:25,970 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 15:49:26,024 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 15:49:26,082 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 15:49:29,953 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 15:49:31,650 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 15:49:39,973 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:49:43,193 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  MSEDGE-93.0.961.44
+ 2021-09-11 15:49:43,203 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:49:43,245 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:50:25,235 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  OPERA-92.0.4515.159
+ 2021-09-11 15:50:25,266 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:50:26,229 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  OPERA-92.0.4515.159
+ 2021-09-11 15:50:26,239 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:50:26,268 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:50:26,355 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:50:26,384 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:50:26,416 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:50:26,443 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:50:26,537 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 15:50:27,862 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  OPERA-92.0.4515.159
+ 2021-09-11 15:50:27,869 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:50:27,872 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:50:27,933 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  OPERA-92.0.4515.159
+ 2021-09-11 15:50:27,942 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:50:27,951 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:50:27,985 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:50:27,998 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:50:28,040 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:50:28,070 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:50:28,535 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  OPERA-92.0.4515.159
+ 2021-09-11 15:50:28,544 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:50:28,581 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:50:29,302 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 15:50:31,475 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 15:50:31,480 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:50:31,481 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:50:31,482 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 15:50:31,633 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 15:50:32,647 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 15:50:32,647 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 15:50:32,647 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 15:50:33,725 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 15:50:33,812 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 15:50:33,963 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:50:37,648 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 15:50:37,648 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 15:50:37,649 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 15:50:37,729 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 15:50:37,756 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 15:50:37,781 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 15:50:37,804 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 15:50:42,089 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 15:50:44,642 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 15:50:52,154 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:50:56,197 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  OPERA-92.0.4515.159
+ 2021-09-11 15:50:56,204 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:50:56,232 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:51:33,134 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:51:33,158 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:51:33,218 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:51:33,428 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:51:33,435 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:51:33,439 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:51:33,478 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:51:33,484 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:51:33,485 - com.learning.configuration.TestSuiteBase - INFO - Scrolling to Element: 'Facebook'
+ 2021-09-11 15:51:33,572 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:51:33,573 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:51:33,578 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Facebook' is present on the page
+ 2021-09-11 15:51:33,579 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:51:33,619 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:51:33,625 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:51:33,642 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Twitter' is present on the page
+ 2021-09-11 15:51:33,679 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:51:33,696 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Youtube' is present on the page
+ 2021-09-11 15:51:33,708 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:51:33,725 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+ 2021-09-11 15:51:33,763 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'My account'
+ 2021-09-11 15:51:34,192 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:51:34,211 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:51:37,312 - com.learning.configuration.TestSuiteBase - INFO - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+ 2021-09-11 15:51:37,993 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 2 seconds
+ 2021-09-11 15:51:38,622 - com.learning.configuration.TestSuiteBase - INFO - Fill 'Motivation@11' in 'Password' Text Field
+ 2021-09-11 15:51:38,755 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 2021-09-11 15:51:40,122 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+ 2021-09-11 15:51:40,131 - com.learning.configuration.TestSuiteBase - INFO - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:51:40,133 - com.learning.configuration.TestSuiteBase - INFO - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+ 2021-09-11 15:51:40,135 - com.learning.configuration.TestSuiteBase - INFO - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+ 2021-09-11 15:51:40,322 - com.learning.configuration.TestSuiteBase - INFO - Hold script for: 1 seconds
+ 2021-09-11 15:51:41,345 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My Store
+ 2021-09-11 15:51:41,347 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My Store
+ 2021-09-11 15:51:41,349 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My Store'
+ 2021-09-11 15:51:45,732 - com.learning.configuration.TestSuiteBase - INFO - Actual Title: My account - My Store
+ 2021-09-11 15:51:45,733 - com.learning.configuration.TestSuiteBase - INFO - Expected Title: My account - My Store
+ 2021-09-11 15:51:45,734 - com.learning.configuration.TestSuiteBase - INFO - Title Validation - Verified the page Title: 'My account - My Store'
+ 2021-09-11 15:51:45,833 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign out' is present on the page
+ 2021-09-11 15:51:45,865 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+ 2021-09-11 15:51:45,892 - com.learning.configuration.TestSuiteBase - INFO - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+ 2021-09-11 15:51:45,917 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign out'
+ 2021-09-11 15:51:47,966 - com.learning.configuration.TestSuiteBase - INFO - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+ 2021-09-11 15:51:50,695 - com.learning.configuration.TestSuiteBase - INFO - Presence of Web Element - Verified that 'Sign in' is present on the page
+ 2021-09-11 15:52:00,730 - com.learning.configuration.TestSuiteBase - INFO - Verified 'Sign out' is absent.
+ 2021-09-11 15:52:03,177 - com.learning.configuration.TestSuiteBase - INFO - Windows 10 -- >  CHROME-93.0.4577.63
+ 2021-09-11 15:52:03,194 - com.learning.configuration.TestSuiteBase - INFO - Navigating to URL: http://automationpractice.com/index.php
+ 2021-09-11 15:52:03,266 - com.learning.configuration.TestSuiteBase - INFO - Clicking on 'Sign in'
+ 

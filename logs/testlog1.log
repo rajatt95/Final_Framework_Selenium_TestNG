@@ -1,0 +1,903 @@
+2021-09-11 01:20:07,855 [TestNG-test=Automation Tests - Regression - PARALLEL-5] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 01:20:07,871 [TestNG-test=Automation Tests - Regression - PARALLEL-5] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:20:08,636 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 01:20:08,642 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:20:08,712 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 01:20:08,712 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 01:20:08,720 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:20:08,750 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 01:20:08,845 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 01:20:08,850 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:20:08,851 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 01:20:08,884 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 01:20:08,890 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:20:08,892 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 01:20:08,943 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 01:20:08,975 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 01:20:09,000 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 01:20:09,016 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 01:20:09,027 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 01:20:09,043 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 01:20:09,055 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 01:20:09,076 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 01:20:09,145 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 01:20:11,036 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 01:20:12,033 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 01:20:12,119 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 01:20:12,222 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 01:20:13,133 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 01:20:13,137 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 01:20:13,138 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 01:20:13,138 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 01:20:13,252 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 01:20:14,150 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 01:20:14,151 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 01:20:14,151 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 01:20:14,217 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 01:20:14,234 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 01:20:14,256 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 01:20:14,260 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 01:20:14,260 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 01:20:14,261 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 01:20:14,297 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 01:20:16,753 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 01:20:21,845 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 01:20:26,771 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 01:20:31,243 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 01:20:31,249 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:20:31,281 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 01:21:30,159 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 01:21:30,175 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:21:30,201 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 01:21:30,285 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 01:21:30,317 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 01:21:30,358 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 01:21:30,387 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 01:21:30,595 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 01:21:30,601 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:21:30,638 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 01:21:30,681 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 01:21:30,692 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:21:30,693 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 01:21:30,793 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 01:21:30,857 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 01:21:30,897 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 01:21:30,928 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 01:21:30,944 [TestNG-test=Automation Tests - Regression - PARALLEL-5] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 01:21:30,951 [TestNG-test=Automation Tests - Regression - PARALLEL-5] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:21:30,967 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 01:21:30,983 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:21:31,021 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 01:21:31,026 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 01:21:34,420 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 01:21:35,472 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 01:21:35,554 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 01:21:35,687 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 01:21:36,538 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 01:21:36,542 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 01:21:36,543 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 01:21:36,543 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 01:21:36,768 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 01:21:37,792 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 01:21:37,792 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 01:21:37,792 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 01:21:39,112 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 01:21:39,113 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 01:21:39,113 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 01:21:39,177 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 01:21:39,193 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 01:21:39,218 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 01:21:39,242 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 01:21:42,988 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 01:21:43,619 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 01:21:53,016 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 01:21:53,049 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 01:21:53,058 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:21:53,093 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 01:22:48,206 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 01:22:48,226 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:22:48,255 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 01:22:48,356 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 01:22:48,392 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 01:22:48,401 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:22:48,425 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 01:22:48,478 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 01:22:48,513 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 01:22:48,555 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 01:22:48,563 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:22:48,569 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 01:22:48,593 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 01:22:48,601 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:22:48,602 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 01:22:48,609 [TestNG-test=Automation Tests - Regression - PARALLEL-5] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 01:22:48,616 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 01:22:48,618 [TestNG-test=Automation Tests - Regression - PARALLEL-5] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:22:48,675 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 01:22:48,722 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 01:22:48,750 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 01:22:48,788 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 01:22:48,940 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 01:22:52,066 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 01:22:53,323 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 01:22:53,448 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 01:22:53,771 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 01:22:56,018 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 01:22:56,027 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 01:22:56,028 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 01:22:56,029 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 01:22:56,180 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 01:22:57,199 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 01:22:57,201 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 01:22:57,202 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 01:23:01,309 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 01:23:01,311 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 01:23:01,311 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 01:23:01,483 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 01:23:01,515 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 01:23:01,582 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 01:23:01,626 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 01:23:03,513 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 01:23:05,492 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 01:23:14,219 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 01:23:14,229 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 01:23:14,286 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 01:23:15,522 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 11:49:01,264 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 11:49:01,307 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 11:49:01,409 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 11:49:02,497 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 11:49:02,516 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 11:49:02,524 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 11:49:02,698 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 11:49:02,771 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 11:49:02,829 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 11:49:02,887 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 11:49:03,014 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 11:49:03,025 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 11:49:03,076 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 11:49:03,341 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 11:49:03,344 [TestNG-test=Automation Tests - Regression - PARALLEL-5] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 11:49:03,351 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 11:49:03,356 [TestNG-test=Automation Tests - Regression - PARALLEL-5] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 11:49:03,363 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 11:49:03,365 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 11:49:03,453 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 11:49:03,498 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 11:49:03,560 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 11:49:03,616 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 11:49:03,712 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 11:49:04,595 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 11:49:04,810 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 11:49:09,463 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 11:49:09,463 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 11:49:09,464 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 11:49:09,609 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 11:49:09,640 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 11:49:09,687 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 11:49:09,719 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 11:49:09,808 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 11:49:11,969 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 11:49:11,974 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 11:49:11,975 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 11:49:11,975 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 11:49:12,125 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 11:49:13,150 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 11:49:13,150 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 11:49:13,151 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 11:49:15,969 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 11:49:17,758 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 11:49:26,020 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 11:49:30,068 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 11:49:30,077 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 11:49:30,137 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 12:34:38,060 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 12:34:38,104 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 12:34:38,240 [TestNG-test=Automation Tests - Regression - PARALLEL-5] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 12:34:38,251 [TestNG-test=Automation Tests - Regression - PARALLEL-5] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 12:34:38,274 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 12:34:38,595 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 12:34:38,602 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 12:34:38,606 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 12:34:38,620 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 12:34:38,630 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 12:34:38,632 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 12:34:38,769 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 12:34:38,775 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 12:34:38,780 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 12:34:38,787 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 12:34:38,827 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 12:34:38,843 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 12:34:38,843 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 12:34:38,892 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 12:34:38,892 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 12:34:38,948 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 12:34:38,956 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 12:34:39,117 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 12:34:42,966 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 12:34:43,155 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 12:34:43,286 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 12:34:43,316 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 12:34:45,428 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 12:34:45,433 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 12:34:45,433 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 12:34:45,434 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 12:34:45,717 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 12:34:46,334 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 12:34:46,336 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 12:34:46,338 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 12:34:46,602 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 12:34:46,704 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 12:34:46,743 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 12:34:46,744 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 12:34:46,745 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 12:34:46,762 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 12:34:46,823 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 12:34:50,911 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 12:34:51,213 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 12:35:00,983 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 12:35:05,431 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 12:35:05,439 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 12:35:05,488 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 13:06:30,313 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 13:06:30,338 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 13:06:30,350 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 13:06:30,350 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 13:06:30,402 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 13:06:30,472 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 13:06:30,626 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 13:06:30,736 [TestNG-test=Automation Tests - Regression - PARALLEL-5] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 13:06:30,746 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 13:06:30,751 [TestNG-test=Automation Tests - Regression - PARALLEL-5] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 13:06:30,836 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 13:06:30,906 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 13:06:30,913 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 13:06:30,933 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 13:06:30,936 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 13:06:31,010 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 13:06:31,024 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 13:06:31,038 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 13:06:31,081 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 13:06:31,098 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 13:06:31,161 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 13:06:31,300 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 13:06:31,350 [TestNG-test=Automation Tests - Regression - PARALLEL-1] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 13:06:35,412 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 13:06:35,778 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 13:06:35,799 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 13:06:36,106 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 13:06:37,990 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 13:06:37,996 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 13:06:37,997 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 13:06:37,998 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 13:06:38,327 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 13:06:39,351 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 13:06:39,352 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 13:06:39,353 [TestNG-test=Automation Tests - Regression - PARALLEL-2] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 13:06:42,339 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 13:06:42,340 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 13:06:42,341 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 13:06:42,498 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 13:06:42,560 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 13:06:42,704 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 13:06:42,733 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 13:06:45,812 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 13:06:53,471 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 13:07:00,619 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 13:07:00,627 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 13:07:00,676 [TestNG-test=Automation Tests - Regression - PARALLEL-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 13:07:03,536 [TestNG-test=Automation Tests - Regression - PARALLEL-3] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:17:10,868 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:17:10,911 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:17:10,973 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:17:11,147 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:17:11,250 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:17:11,336 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:17:11,440 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:17:23,018 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:17:23,038 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:17:23,043 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:17:23,227 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:17:23,382 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:17:23,505 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:17:23,592 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:17:23,743 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 15:17:26,711 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 15:17:28,838 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 15:17:28,843 [main] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:17:28,844 [main] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:17:28,844 [main] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 15:17:29,070 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 15:17:30,116 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 15:17:30,118 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 15:17:30,119 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 15:17:42,633 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:17:42,641 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:17:42,693 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:17:45,349 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 15:17:45,738 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 15:17:45,918 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:17:48,015 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 15:17:48,016 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 15:17:48,017 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 15:17:48,110 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 15:17:48,127 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 15:17:48,159 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 15:17:48,180 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 15:17:52,273 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 15:18:02,326 [main] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:18:14,774 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:18:14,782 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:18:14,837 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:18:35,361 [main] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 15:18:59,269 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:18:59,288 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:18:59,400 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:19:24,455 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:19:24,470 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:22:01,402 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:22:01,458 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:22:01,524 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:22:01,707 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:22:01,857 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:22:01,963 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:22:02,063 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:22:14,130 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:22:14,155 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:22:14,160 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:22:14,352 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:22:14,441 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:22:14,555 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:22:14,625 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:22:14,765 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 15:22:17,664 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 15:22:19,854 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 15:22:19,863 [main] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:22:19,864 [main] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:22:19,864 [main] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 15:22:20,171 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 15:22:21,198 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 15:22:21,199 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 15:22:21,200 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 15:22:33,601 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:22:33,625 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:22:33,719 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:22:36,638 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 15:22:36,774 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 15:22:36,931 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:22:39,557 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 15:22:39,559 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 15:22:39,560 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 15:22:39,783 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 15:22:39,830 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 15:22:39,913 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 15:22:39,972 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 15:22:44,251 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 15:22:54,340 [main] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:22:58,265 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:26:57,371 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:26:57,393 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:26:57,430 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:26:57,580 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:26:57,695 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:26:57,876 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:26:57,957 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:27:09,391 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:27:09,413 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:27:09,421 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:27:09,616 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:27:09,707 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:27:09,821 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:27:09,882 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:27:10,050 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 15:27:13,563 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 15:27:15,710 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 15:27:15,716 [main] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:27:15,717 [main] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:27:15,718 [main] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 15:27:16,028 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 15:27:17,040 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 15:27:17,040 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 15:27:17,041 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 15:27:29,514 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:27:29,537 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:27:29,635 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:27:36,583 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 15:27:36,752 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 15:27:36,886 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:27:39,822 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 15:27:39,825 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 15:27:39,827 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 15:27:39,988 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 15:27:40,047 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 15:27:40,136 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 15:27:40,183 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 15:27:46,268 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 15:27:56,316 [main] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:28:15,353 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:28:15,366 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:28:15,431 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:28:36,268 [main] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 15:28:56,651 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:28:56,667 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:28:56,731 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:29:23,175 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:29:23,185 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:31:55,066 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:31:55,108 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:31:55,156 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:31:55,312 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:31:55,436 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:31:55,549 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:31:55,658 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:32:08,640 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:32:08,654 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:32:08,659 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:32:08,832 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:32:08,958 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:32:09,043 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:32:09,089 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:32:09,177 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 15:32:11,964 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 15:32:14,199 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 15:32:14,203 [main] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:32:14,204 [main] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:32:14,205 [main] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 15:32:14,457 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 15:32:15,495 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 15:32:15,496 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 15:32:15,497 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 15:32:27,206 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:32:27,224 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:32:27,329 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:32:30,696 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 15:32:30,974 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 15:32:31,221 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:32:33,276 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 15:32:33,277 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 15:32:33,278 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 15:32:33,419 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 15:32:33,448 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 15:32:33,495 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 15:32:33,527 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 15:32:36,211 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 15:32:46,320 [main] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:32:58,655 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:32:58,673 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:32:58,763 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:33:15,095 [main] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 15:33:18,189 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:33:18,195 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/
+2021-09-11 15:33:51,111 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:33:51,131 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:34:14,486 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:34:14,542 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:34:14,641 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:34:14,999 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:34:15,143 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:34:15,251 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:34:15,368 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:34:27,545 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:34:27,566 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:34:27,572 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:34:27,797 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:34:27,896 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:34:27,981 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:34:28,049 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:34:28,211 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 15:34:31,048 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 15:34:33,210 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 15:34:33,218 [main] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:34:33,219 [main] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:34:33,220 [main] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 15:34:33,433 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 15:34:34,460 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 15:34:34,461 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 15:34:34,463 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 15:34:46,645 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:34:46,666 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:34:46,760 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:34:49,707 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 15:34:49,826 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 15:34:49,941 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:34:53,359 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 15:34:53,360 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 15:34:53,362 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 15:34:53,552 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 15:34:53,589 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 15:34:53,663 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 15:34:53,717 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 15:34:56,513 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 15:35:06,566 [main] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:35:19,113 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:35:19,133 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:35:19,232 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:35:32,393 [main] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 15:35:44,010 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:35:44,030 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:35:44,124 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:36:10,077 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:36:10,098 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:36:45,679 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:36:45,721 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:36:45,789 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:36:45,966 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:36:46,052 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:36:46,162 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:36:46,237 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:37:01,554 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:37:01,579 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:37:01,584 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:37:01,796 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:37:01,930 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:37:02,060 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:37:02,183 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:37:02,372 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 15:37:05,440 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 15:37:07,709 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 15:37:07,723 [main] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:37:07,725 [main] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:37:07,726 [main] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 15:37:08,244 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 15:37:09,264 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 15:37:09,266 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 15:37:09,268 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 15:37:21,381 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:37:21,398 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:37:21,495 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:37:23,936 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 15:37:25,308 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 15:37:25,451 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:37:28,190 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 15:37:28,191 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 15:37:28,192 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 15:37:28,403 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 15:37:28,445 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 15:37:28,526 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 15:37:28,576 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 15:37:32,099 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 15:37:42,175 [main] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:37:53,916 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:37:53,922 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:37:53,970 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:38:10,682 [main] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 15:38:29,273 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:38:29,291 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:38:29,394 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:39:03,891 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:39:03,907 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:39:41,634 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:39:41,678 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:39:41,760 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:39:41,991 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:39:42,104 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:39:42,211 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:39:42,320 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:39:55,650 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:39:55,663 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:39:55,666 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:39:55,770 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:39:55,824 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:39:55,882 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:39:55,915 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:39:56,022 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 15:40:00,012 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 15:40:02,156 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 15:40:02,162 [main] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:40:02,162 [main] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:40:02,162 [main] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 15:40:02,408 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 15:40:03,424 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 15:40:03,425 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 15:40:03,425 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 15:40:16,242 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:40:16,250 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:40:16,294 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:40:19,889 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 15:40:20,023 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 15:40:20,171 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:40:22,654 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 15:40:22,655 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 15:40:22,658 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 15:40:22,812 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 15:40:22,842 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 15:40:22,884 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 15:40:22,904 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 15:40:27,701 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 15:40:37,743 [main] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:40:50,038 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:40:50,057 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:40:50,157 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:41:04,762 [main] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 15:41:17,845 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:41:17,864 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:41:17,963 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:41:46,822 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:41:46,849 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:42:16,493 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  OPERA-92.0.4515.159
+2021-09-11 15:42:16,541 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:42:16,637 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:42:16,822 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:42:16,882 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:42:16,930 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:42:17,006 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:42:30,258 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  OPERA-92.0.4515.159
+2021-09-11 15:42:30,280 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:42:30,287 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:42:30,470 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:42:30,573 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:42:30,725 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:42:30,869 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:42:30,952 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 15:42:34,191 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 15:42:36,421 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 15:42:36,435 [main] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:42:36,437 [main] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:42:36,438 [main] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 15:42:36,975 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 15:42:38,006 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 15:42:38,008 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 15:42:38,010 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 15:42:56,474 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  OPERA-92.0.4515.159
+2021-09-11 15:42:56,497 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:42:56,614 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:43:03,668 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 15:43:03,807 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 15:43:03,948 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:43:06,477 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 15:43:06,479 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 15:43:06,481 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 15:43:06,617 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 15:43:06,645 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 15:43:06,687 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 15:43:06,705 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 15:43:16,987 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 15:43:27,049 [main] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:43:49,164 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  OPERA-92.0.4515.159
+2021-09-11 15:43:49,178 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:43:49,243 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:44:03,296 [main] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 15:44:19,840 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  OPERA-92.0.4515.159
+2021-09-11 15:44:19,864 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:44:19,974 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:44:48,499 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  OPERA-92.0.4515.159
+2021-09-11 15:44:48,522 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:45:15,594 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:45:15,613 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:45:15,652 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:45:15,830 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:45:15,901 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:45:15,958 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:45:15,995 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:45:26,554 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:45:26,571 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:45:26,577 [main] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:45:26,759 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:45:26,854 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:45:26,918 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:45:26,967 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:45:27,071 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 15:45:31,114 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 15:45:33,331 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 15:45:33,342 [main] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:45:33,344 [main] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:45:33,345 [main] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 15:45:33,622 [main] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 15:45:34,645 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 15:45:34,647 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 15:45:34,650 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 15:45:48,673 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:45:48,692 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:45:48,786 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:45:56,421 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 15:45:57,968 [main] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 15:45:58,250 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:46:01,564 [main] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 15:46:01,564 [main] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 15:46:01,565 [main] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 15:46:01,711 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 15:46:01,751 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 15:46:01,825 [main] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 15:46:01,863 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 15:46:05,847 [main] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 15:46:15,916 [main] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:46:27,949 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:46:27,975 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:46:28,087 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:46:40,191 [main] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 15:46:53,097 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:46:53,112 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:46:53,186 [main] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:47:18,582 [main] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:47:18,599 [main] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:47:49,429 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:47:49,472 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:47:49,512 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:47:49,609 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:47:49,621 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:47:49,625 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:47:49,837 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:47:49,972 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:47:49,978 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:47:49,991 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:47:50,105 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:47:50,105 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:47:50,192 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-5] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:47:50,219 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-5] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:47:50,246 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:47:50,313 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:47:50,331 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:47:50,336 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:47:50,352 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:47:50,414 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:47:50,414 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:47:50,493 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:47:50,529 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 15:47:56,971 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 15:47:57,087 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 15:47:57,227 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:47:57,647 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 15:47:59,927 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 15:47:59,943 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:47:59,945 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:47:59,947 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 15:48:00,222 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 15:48:01,256 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 15:48:01,258 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 15:48:01,259 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 15:48:05,526 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 15:48:06,387 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 15:48:06,388 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 15:48:06,390 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 15:48:06,546 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 15:48:06,565 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 15:48:06,607 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 15:48:06,626 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 15:48:09,729 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 15:48:19,811 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:48:20,328 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:48:20,349 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:48:20,442 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:49:17,218 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:49:17,246 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:49:17,376 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:49:17,432 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:49:17,445 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:49:17,450 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:49:17,608 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:49:17,849 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:49:17,866 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:49:17,879 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:49:17,881 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:49:17,924 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:49:17,935 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:49:17,939 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:49:18,006 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:49:18,022 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:49:18,030 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-5] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:49:18,031 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:49:18,038 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-5] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:49:18,100 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 15:49:18,117 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:49:18,289 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:49:18,367 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:49:21,212 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 15:49:21,389 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 15:49:21,598 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:49:21,835 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 15:49:24,089 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 15:49:24,102 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:49:24,104 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:49:24,106 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 15:49:24,528 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 15:49:25,552 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 15:49:25,553 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 15:49:25,555 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 15:49:25,817 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 15:49:25,818 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 15:49:25,819 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 15:49:25,934 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 15:49:25,970 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 15:49:26,024 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 15:49:26,082 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 15:49:29,953 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 15:49:31,650 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 15:49:39,973 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:49:43,193 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  MSEDGE-93.0.961.44
+2021-09-11 15:49:43,203 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:49:43,245 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:50:25,235 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-5] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  OPERA-92.0.4515.159
+2021-09-11 15:50:25,266 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-5] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:50:26,229 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  OPERA-92.0.4515.159
+2021-09-11 15:50:26,239 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:50:26,268 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:50:26,355 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:50:26,384 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:50:26,416 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:50:26,443 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:50:26,537 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 15:50:27,862 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  OPERA-92.0.4515.159
+2021-09-11 15:50:27,869 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:50:27,872 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:50:27,933 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  OPERA-92.0.4515.159
+2021-09-11 15:50:27,942 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:50:27,951 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:50:27,985 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:50:27,998 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:50:28,040 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:50:28,070 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:50:28,535 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  OPERA-92.0.4515.159
+2021-09-11 15:50:28,544 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:50:28,581 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:50:29,302 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 15:50:31,475 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 15:50:31,480 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:50:31,481 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:50:31,482 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 15:50:31,633 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 15:50:32,647 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 15:50:32,647 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 15:50:32,647 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 15:50:33,725 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 15:50:33,812 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 15:50:33,963 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:50:37,648 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 15:50:37,648 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 15:50:37,649 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 15:50:37,729 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 15:50:37,756 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 15:50:37,781 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 15:50:37,804 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 15:50:42,089 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 15:50:44,642 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 15:50:52,154 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:50:56,197 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  OPERA-92.0.4515.159
+2021-09-11 15:50:56,204 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:50:56,232 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:51:33,134 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:51:33,158 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:51:33,218 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:51:33,428 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:51:33,435 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:51:33,439 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:51:33,478 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:51:33,484 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:51:33,485 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Scrolling to Element: 'Facebook'
+2021-09-11 15:51:33,572 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:51:33,573 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:51:33,578 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Facebook' is present on the page
+2021-09-11 15:51:33,579 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:51:33,619 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:51:33,625 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:51:33,642 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Twitter' is present on the page
+2021-09-11 15:51:33,679 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:51:33,696 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Youtube' is present on the page
+2021-09-11 15:51:33,708 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:51:33,725 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-1] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Follow us' contains 'Follow us'
+2021-09-11 15:51:33,763 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Clicking on 'My account'
+2021-09-11 15:51:34,192 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-5] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:51:34,211 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-5] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:51:37,312 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Fill 'testtmail95@gmail.com' in 'Email' Text Field
+2021-09-11 15:51:37,993 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 2 seconds
+2021-09-11 15:51:38,622 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Fill 'Motivation@11' in 'Password' Text Field
+2021-09-11 15:51:38,755 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'
+2021-09-11 15:51:40,122 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Cart (empty)' is present on the page
+2021-09-11 15:51:40,131 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Current URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:51:40,133 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Expected String in URL: http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-09-11 15:51:40,135 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - URL Validation - Verified "My account" link is navigated to [ "http://automationpractice.com/index.php?controller=authentication&back=my-account" ]
+2021-09-11 15:51:40,322 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Hold script for: 1 seconds
+2021-09-11 15:51:41,345 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Actual Title: My Store
+2021-09-11 15:51:41,347 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Expected Title: My Store
+2021-09-11 15:51:41,349 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-2] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My Store'
+2021-09-11 15:51:45,732 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Actual Title: My account - My Store
+2021-09-11 15:51:45,733 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Expected Title: My account - My Store
+2021-09-11 15:51:45,734 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Title Validation - Verified the page Title: 'My account - My Store'
+2021-09-11 15:51:45,833 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign out' is present on the page
+2021-09-11 15:51:45,865 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Sign out' contains 'Sign out'
+2021-09-11 15:51:45,892 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Web Element Text - Verified that 'Test Mail' contains 'Test Mail'
+2021-09-11 15:51:45,917 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign out'
+2021-09-11 15:51:47,966 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Retrying test S_04_Story_753 with status FAILURE for the 1 time(s).
+2021-09-11 15:51:50,695 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Presence of Web Element - Verified that 'Sign in' is present on the page
+2021-09-11 15:52:00,730 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-3] INFO com.learning.configuration.TestSuiteBase - Verified 'Sign out' is absent.
+2021-09-11 15:52:03,177 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Windows 10 -- >  CHROME-93.0.4577.63
+2021-09-11 15:52:03,194 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Navigating to URL: http://automationpractice.com/index.php
+2021-09-11 15:52:03,266 [TestNG-test=Automation Tests - Regression - PARALLEL - Single browser with many instances-4] INFO com.learning.configuration.TestSuiteBase - Clicking on 'Sign in'

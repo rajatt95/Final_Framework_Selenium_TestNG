@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Automation Test Suite - Regression - SEQUENTIAL">
+	<listeners>
+		<listener class-name="com.learning.listeners.Retry_Listener"></listener>
+		<listener class-name="com.learning.listeners.Test_Listener"></listener>
+	</listeners>
+
+	<test name="Automation Tests - Regression - SEQUENTIAL">
+
+		<groups>
+			<run>
+				<include name="Regression"></include>
+				<!-- <include name="Sanity"></include> -->
+				<!-- <exclude name="Regression"></exclude> -->
+			</run>
+		</groups>
+
+		<packages>
+			<package name="com.learning.actual.testscripts" />
+		</packages>
+
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
