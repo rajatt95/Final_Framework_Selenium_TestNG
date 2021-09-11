@@ -1,6 +1,4 @@
 # Framework_Selenium_TestNG_Final
-This project is designed and developed for Web Automation Testing (Framework_Selenium_TestNG_Final)
-# Framework_Selenium_TestNG_Final
 This framework is designed and developed for Web Automation Testing (Framework_Selenium_TestNG_Final); Supports Parallel testing as well.
 
 --------------------------------------------------------------------------------------------------------------------
