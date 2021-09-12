@@ -20,7 +20,6 @@
 						<suiteXmlFile>src/test/resources/runner/02_TestNG_Execute_Parallel_Regression.xml</suiteXmlFile>
 
 
-
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>

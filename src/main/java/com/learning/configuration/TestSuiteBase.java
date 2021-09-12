@@ -27,15 +27,13 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class TestSuiteBase {
 
-//	static protected WebDriver driver;
 	private static ThreadLocal<WebDriver> driver = new ThreadLocal<WebDriver>();
-
 	public static void setDriver() {
 
 		handleBrowserValue();
 		String browserName = properties.getProperty(Constants.Properties_Browser);
 		if (browserName.equalsIgnoreCase(Constants.Browser_Firefox)) {
-			WebDriverManager.firefoxdriver().setup();
+			// WebDriverManager.firefoxdriver().setup();
 			driver.set(new FirefoxDriver());
 		} else if (browserName.equalsIgnoreCase(Constants.Browser_Chrome)) {
 			WebDriverManager.chromedriver().setup();
@@ -44,17 +42,16 @@ public class TestSuiteBase {
 			WebDriverManager.edgedriver().setup();
 			driver.set(new EdgeDriver());
 		} else if (browserName.equalsIgnoreCase(Constants.Browser_Safari)) {
-			WebDriverManager.safaridriver().setup();
+			// WebDriverManager.safaridriver().setup();
 			driver.set(new SafariDriver());
 		} else if (browserName.equalsIgnoreCase(Constants.Browser_Opera)) {
 			WebDriverManager.operadriver().setup();
 			driver.set(new OperaDriver());
 		} else if (browserName.equalsIgnoreCase(Constants.Browser_Chrome_Headless)) {
 			ChromeOptions options = new ChromeOptions();
-			options.addArguments(Constants.Headless);
+			options.addArguments(Constants.Browser_Headless);
 			WebDriverManager.chromedriver().setup();
 			driver.set(new ChromeDriver(options));
-			log.debug("Headless Mode: " + Constants.Browser_Chrome_Headless.toUpperCase());
 		} else {
 			WebDriverManager.chromedriver().setup();
 			driver.set(new ChromeDriver());
@@ -96,7 +93,7 @@ public class TestSuiteBase {
 		properties = loadPage.loadAllFiles();
 
 		// Configure log4j.properties file
-		PropertyConfigurator.configure(Constants.LOG4J_PROPERTIES);
+		PropertyConfigurator.configure(Constants.Properties_LOG4J);
 
 	}
 
@@ -112,7 +109,7 @@ public class TestSuiteBase {
 
 	}
 
-	private static void handleBrowserValue() {
+	protected static void handleBrowserValue() {
 		String browser;
 		if (System.getenv(Constants.Properties_Browser) != null
 				&& !System.getenv(Constants.Properties_Browser).isEmpty()) {

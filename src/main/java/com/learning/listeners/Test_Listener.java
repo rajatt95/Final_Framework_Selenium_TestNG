@@ -14,10 +14,8 @@ import java.util.zip.ZipOutputStream;
 import javax.mail.MessagingException;
 import javax.mail.internet.AddressException;
 
-import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
 import org.testng.ISuite;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
@@ -45,8 +43,23 @@ public class Test_Listener extends TestSuiteBase implements ITestListener {
 	static int count_totalTCs;
 
 	static Date d = new Date();
-	static String fileName = "Automation_Report_" + d.toString().replace(":", "_").replace(" ", "_") + ".html";
-	private static ExtentReports extent = ExtentManager.createInstance(Constants.REPORTS_Folder + fileName);
+
+	static String fileName = getExtentReportName();
+
+	private static String getExtentReportName() {
+		String prefix = "Automation_Report_";
+		String os = Custom_Utilties.getOSName().replace(" ", "_") + "_";
+		handleBrowserValue();
+		String browser = Custom_Utilties.getValueFrom_Environment_PropertiesFile(Constants.Properties_Browser)
+				.toUpperCase() + "_";
+		String current_Date = d.toString().replace(":", "_").replace(" ", "_");
+		String fileFormat = ".html";
+		String extentReports_FileName = prefix + os + browser + current_Date + fileFormat;
+		// System.out.println(extentReports_FileName);
+		return extentReports_FileName;
+	}
+
+	private static ExtentReports extent = ExtentManager.createInstance(Constants.Reports_Extent_Folder + fileName);
 
 	public static ThreadLocal<ExtentTest> extentTest = new ThreadLocal<ExtentTest>();
 
@@ -121,10 +134,29 @@ public class Test_Listener extends TestSuiteBase implements ITestListener {
 		if (extent != null) {
 			extent.flush();
 		}
+
+		print_Info_In_Console();
+
 		// Zipping reports folder and putting it under root directory
-		zip(Constants.REPORTS_Folder);
+		zip(Constants.Reports_Extent_Folder);
 
 		// sendEmail_WithAttachmentsAndFormattedBodyText_ToManyUsersRajat();
+	}
+
+	private void print_Info_In_Console() {
+
+		System.out.println(
+				"***************************************************************************************************************************************");
+		System.out.println(
+				"***************************************************************************************************************************************");
+		 System.out.println("Logs files Location: " + Constants.Path_Project+"logs");
+		System.out.println(
+				"Reports.zip Location: " + Constants.Path_Project + Constants.Zipped_ExtentReports_Folder_Name);
+		System.out.println("Extent Report Name: " + fileName);
+		System.out.println(
+				"***************************************************************************************************************************************");
+		System.out.println(
+				"***************************************************************************************************************************************");
 	}
 
 	public void onStart(ISuite suite) {
@@ -144,9 +176,9 @@ public class Test_Listener extends TestSuiteBase implements ITestListener {
 		 * "All_Automation_Report_Fri_Sep_10_03_47_17_IST_2021.html";
 		 */
 
-		String attachmentFile_ExtentReport = Constants.REPORTS_Folder + fileName;
+		String attachmentFile_ExtentReport = Constants.Reports_Extent_Folder + fileName;
 
-		String attachmentFile_EMailableReport = Constants.Emailable_Report;
+		String attachmentFile_EMailableReport = Constants.Report_TestNG_Emailable;
 
 		// Do not send it via Email - it a folder contains n no. of files
 		// String attachmentFile_ExtentReports_Zip =
@@ -203,30 +235,6 @@ public class Test_Listener extends TestSuiteBase implements ITestListener {
 				+ "            </table>\r\n" + "       \r\n" + "    </body>\r\n" + "</html>";
 
 		return messageBodyInFormat;
-	}
-
-	public String takeScreenshot(WebDriver driver, String methodName) {
-		String fileName = getScreenshotName(methodName);
-		String directory = System.getProperty("user.dir") + "/screenshots/";
-		new File(directory).mkdirs();
-		String path = directory + fileName;
-
-		try {
-			File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-			FileUtils.copyFile(screenshot, new File(path));
-			System.out.println("******************************************");
-			System.out.println("Screenshot stored at: " + path);
-			System.out.println("******************************************");
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-		return path;
-	}
-
-	public static String getScreenshotName(String methodName) {
-		Date d = new Date();
-		String fileName = methodName + "_" + d.toString().replace(":", "_").replace(" ", "_") + ".png";
-		return fileName;
 	}
 
 	// make zip of reports

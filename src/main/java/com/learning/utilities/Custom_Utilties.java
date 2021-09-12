@@ -1,8 +1,11 @@
 package com.learning.utilities;
 
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.Date;
+import java.util.Properties;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.Capabilities;
@@ -176,7 +179,7 @@ public class Custom_Utilties extends TestSuiteBase {
 		publishMessageInReports("Navigating to URL: " + ((RemoteWebDriver) getDriver()).getCurrentUrl());
 	}
 
-	public String getOSName() {
+	public static String getOSName() {
 		return System.getProperty("os.name");
 	}
 
@@ -194,6 +197,22 @@ public class Custom_Utilties extends TestSuiteBase {
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
+	}
+
+	public static String getValueFrom_Environment_PropertiesFile(String property_Key) {
+
+		FileReader reader = null;
+		Properties p = null;
+		try {
+			reader = new FileReader(Constants.Properties_Environment);
+			p = new Properties();
+			p.load(reader);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return p.getProperty(property_Key);
 	}
 
 	public void captureScreenshot(WebDriver driver) {

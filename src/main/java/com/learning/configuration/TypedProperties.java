@@ -35,9 +35,9 @@ public class TypedProperties {
 	 * You do not need to give the file name every time
 	 */
 	public Properties loadAllFiles() throws IOException {
-		fileObj = new File(Constants.PAGEPATH);
-		System.out.println(Constants.PAGEPATH);
-		filePath = Constants.PAGEPATH;
+		fileObj = new File(Constants.Properties_PATH);
+		System.out.println(Constants.Properties_PATH);
+		filePath = Constants.Properties_PATH;
 		File[] files = fileObj.listFiles();
 		for (int file = 0; file < files.length; file++) {
 			String FileName = files[file].getName();
