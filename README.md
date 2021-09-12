@@ -19,4 +19,15 @@ Other Utilities implemented -
 ![image](https://user-images.githubusercontent.com/26399692/132939837-da66c77d-4c65-4b5f-b721-c1a64b51ba85.png)
 
 2. Zip file creation - a zip will created of all the ExtentReports after Test suite Execution.
+-----------------
+Files Location - 
+1. Browser selection : Project Directory/src/test/resources/properties/environment.properties
+2. Test Data Excel File : Project Directory/src/test/resources/excel/testdata.xlsx
+3. TestNG.XML Runner files : Project Directory/src/test/resources/runner/
+4. Logs : Project Directory/logs
+5. ExtentReports : Project Directory/extent_reports/
+6. Zip fle of Extent Reports : Project Directory/Extent_Reports.zip
+7. EMail credentials : Project Directory/src/main/java/com/learning/email/java_Mail_API/TestConfig.java
+8. Comparison (Sequentail/Parallel run) : Project Directory/Test_Execution_Reports_Analysis/
+9. Test scripts : Project Directory/src/test/java/com/learning/actual/testscripts/
 
