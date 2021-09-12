@@ -19,6 +19,7 @@ Other Utilities implemented -
 ![image](https://user-images.githubusercontent.com/26399692/132939837-da66c77d-4c65-4b5f-b721-c1a64b51ba85.png)
 
 2. Zip file creation - a zip will created of all the ExtentReports after Test suite Execution.
+3. Multiple Extent Reports (All and Only PASS/SKIP/FAIL)
 -----------------
 Files Location - 
 1. Browser selection : Project Directory/src/test/resources/properties/environment.properties
