@@ -33,7 +33,7 @@ public class TestSuiteBase {
 		handleBrowserValue();
 		String browserName = properties.getProperty(Constants.Properties_Browser);
 		if (browserName.equalsIgnoreCase(Constants.Browser_Firefox)) {
-			 WebDriverManager.firefoxdriver().setup();
+			// WebDriverManager.firefoxdriver().setup();
 			driver.set(new FirefoxDriver());
 		} else if (browserName.equalsIgnoreCase(Constants.Browser_Chrome)) {
 			WebDriverManager.chromedriver().setup();

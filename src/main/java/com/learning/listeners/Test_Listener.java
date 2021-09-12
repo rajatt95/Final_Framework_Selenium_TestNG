@@ -5,7 +5,6 @@ import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
-import java.io.IOException;
 import java.util.Arrays;
 import java.util.Date;
 import java.util.zip.ZipEntry;
@@ -97,14 +96,11 @@ public class Test_Listener extends TestSuiteBase implements ITestListener {
 
 		// WebDriver driver = ((TestClassUsingListeners) result.getInstance()).driver;
 		// String path = takeScreenshot(driver, result.getMethod().getMethodName());
-		try {
-			extentTest.get().fail("<b><font color=red>" + "Screenshot of Failure" + "</font></b>",
-					// MediaEntityBuilder.createScreenCaptureFromPath(path).build());
-					MediaEntityBuilder.createScreenCaptureFromBase64String(
-							((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.BASE64)).build());
-		} catch (IOException e) {
-			extentTest.get().fail("Test failed, can not attach Screenshot");
-		}
+
+		extentTest.get().fail("<b><font color=red>" + "Screenshot of Failure" + "</font></b>",
+				// MediaEntityBuilder.createScreenCaptureFromPath(path).build());
+				MediaEntityBuilder.createScreenCaptureFromBase64String(
+						((TakesScreenshot) getDriver()).getScreenshotAs(OutputType.BASE64)).build());
 
 		String logText = "<b>Test Method " + result.getMethod().getMethodName() + " is Failed</b>";
 		Markup m = MarkupHelper.createLabel(logText, ExtentColor.RED);
@@ -149,7 +145,7 @@ public class Test_Listener extends TestSuiteBase implements ITestListener {
 				"***************************************************************************************************************************************");
 		System.out.println(
 				"***************************************************************************************************************************************");
-		 System.out.println("Logs files Location: " + Constants.Path_Project+"logs");
+		System.out.println("Logs files Location: " + Constants.Path_Project + "logs");
 		System.out.println(
 				"Reports.zip Location: " + Constants.Path_Project + Constants.Zipped_ExtentReports_Folder_Name);
 		System.out.println("Extent Report Name: " + fileName);
