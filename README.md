@@ -29,6 +29,6 @@ Files Location -
 5. **ExtentReports : Project Directory/extent_reports/**
 6. Zip file of Extent Reports : Project Directory/Extent_Reports.zip
 7. EMail credentials : Project Directory/src/main/java/com/learning/email/java_Mail_API/TestConfig.java
-8. **Comparison (Sequentail/Parallel run) : Project Directory/Test_Execution_Reports_Analysis/**
+8. **Comparison (Sequential/Parallel run) : Project Directory/Test_Execution_Reports_Analysis/**
 9. Test scripts : Project Directory/src/test/java/com/learning/actual/testscripts/
 
