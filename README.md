@@ -10,7 +10,7 @@ This framework is designed and developed for Web Automation Testing (Framework_S
 5.  Design Pattern - Page Object Model (With Page Factories)
 6.  Testing framework - TestNG
 7.  Build and Dependency Management Tool - Maven
-8.  Reports - ExtentReports, TestNG reports (Emailable-reports.html)
+8.  Reports - ExtentReports V5, TestNG reports (Emailable-reports.html)
 9.  Approach - Data-Driven (.xlsx)
 -----------------
 Other Utilities implemented - 
