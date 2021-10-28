@@ -2,6 +2,9 @@
 This framework is designed and developed for Web Automation Testing (Framework_Selenium_TestNG_Final); Supports Parallel testing as well.
 
 --------------------------------------------------------------------------------------------------------------------
+Please check (More organized with lot of features):
+https://github.com/rajatt95/MasterSeleniumFramework
+--------------------------------------------------------------------------------------------------------------------
 
 1.  Automation testing tool - Selenium WebDriver API
 2.  Programming language - Java
